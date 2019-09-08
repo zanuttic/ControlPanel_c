@@ -1,0 +1,11 @@
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.deps.json
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.runtimeconfig.json
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.runtimeconfig.dev.json
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.dll
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\bin\Release\netcoreapp2.0\ControlPanel.pdb
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.csprojAssemblyReference.cache
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.csproj.CoreCompileInputs.cache
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.AssemblyInfoInputs.cache
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.AssemblyInfo.cs
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.dll
+C:\Users\czanutti\Documents\GitHub\ControlPanel\ControlPanel\obj\Release\netcoreapp2.0\ControlPanel.pdb
